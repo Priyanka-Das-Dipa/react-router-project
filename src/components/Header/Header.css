@@ -1,0 +1,12 @@
+nav > a{
+    margin-right: 20px;
+}
+.btn{
+    background-color: brown;
+    color: white;
+}
+
+nav a.active{
+    text-decoration: underline;
+    color: chocolate;
+}
